@@ -5,10 +5,6 @@
 - 📫 How to reach me tristan.michel@epitech.eu / IRC irc.root-me.org
 
 
-## 📈 My GitHub Stats
-
-[![c0dejump GitHub stats](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&theme=nightowl&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=darcula&show_icons=true&count_private=true)
-
 
 **Languages and Tools:**  
 
@@ -21,3 +17,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+
+
+## 📈 My GitHub Stats
+
+[![c0dejump GitHub stats](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&theme=nightowl&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=c0dejump&theme=darcula&show_icons=true&count_private=true)
+
+
