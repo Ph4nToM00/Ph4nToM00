@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ph4nToM00
-- 👀 I’m interested in CyberSecurity, dev
-- 🌱 I’m currently learning PHP,Python
+- 👀 I’m interested in CyberSecurity, web dev, software dev
+- 🌱 I’m currently learning Java, Flutter
 - 💞️ I’m looking to collaborate on https://ph4ntom00.github.io
 - 📫 How to reach me tristanmichelpro@gmail.com / IRC irc.root-me.org
 
