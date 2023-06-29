@@ -24,6 +24,6 @@
 
 ## 📈 My GitHub Stats
 
-[![c0dejump GitHub stats](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&theme=nightowl&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&theme=darcula&show_icons=true&count_private=true)
+[![Ph4nToM00 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&theme=nightowl&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&theme=darcula&show_icons=true&count_private=true)
 
 
