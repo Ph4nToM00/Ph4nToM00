@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ph4nToM00
 - 👀 I’m interested in CyberSecurity, web dev, software dev
 - 🌱 I’m currently learning Java, Flutter, Swift
-- 💞️ I’m looking my portfolio on http://portfolio.ribera-dev.fr
 - 📫 How to reach me contact@ribera-dev.fr
 - 💻 Look what i'm doing https://ribera-dev.fr
 
