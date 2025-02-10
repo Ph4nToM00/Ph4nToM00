@@ -1,29 +1,66 @@
-- 👋 Hi, I’m @Ph4nToM00
-- 👀 I’m interested in CyberSecurity, web dev, software dev
-- 🌱 I’m currently learning Java, Flutter, Swift
-- 📫 How to reach me hello@riberadev.fr
-- 💻 Look what i'm doing https://riberadev.fr
+# Bienvenue sur mon profil GitHub ! 👋
 
+## À propos de moi
 
+Bonjour ! Je suis Ph4nToM00, un passionné de développement [Web et mobile]. J'aime résoudre des problèmes complexes et apprendre de nouvelles technologies.
 
-**Languages and Tools:**  
+- 🔭 Je travaille actuellement sur [TripHuddle & BlockPulse].
+- 🌱 J'apprends actuellement [Flutter].
+- 👯 Je cherche à collaborer sur des apps [Web & Mobile].
+- 📫 Comment me contacter : [hello@riberadev.fr].
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="20" src="https://bryceandy-devblog.s3-us-east-2.amazonaws.com/1639339885.jpg"></code>
-<code><img height="20" src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png"></code>
-<code><img height="20" src="https://static.vecteezy.com/system/resources/previews/022/100/686/non_2x/java-logo-transparent-free-png.png"></code>
-<code><img height="20" src="https://img2.freepng.fr/20180407/qcq/kisspng-vue-js-javascript-framework-front-and-back-ends-gi-technical-5ac9109e8adb43.6860172915231264305688.jpg"></code>
+## Mes compétences techniques
 
-## 📈 My GitHub Stats
+Voici quelques technologies et outils avec lesquels je travaille :
 
-[![Ph4nToM00 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&theme=nightowl&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&theme=darcula&show_icons=true&count_private=true)
+### Stack MERN
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Frameworks JavaScript
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Autres technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+### Frameworks UI
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+
+## Mes projets
+
+Voici quelques-uns de mes projets récents :
+
+- [TripHuddle](#) : Application mobile hybrid sur le thème du voyage.
+- [BlockPulse](#) : Application mobile hybrid sur le thème du web3.0 blockchain.
+
+## Statistiques GitHub
+
+![Ph4nToM00 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ph4nToM00&show_icons=true&theme=radical)
+
+## Contact
+
+N'hésitez pas à me contacter pour toute question ou collaboration !
+
+- [LinkedIn](#)
+
+---
+
+Merci d'avoir visité mon profil ! 😊
+
 
 
